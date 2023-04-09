@@ -1,0 +1,16 @@
+h1, a{
+  color: red;
+}
+h2{
+  color: green;
+}
+body{
+  background-color: aqua;
+}
+img{
+  width:500px;
+}
+.bigText{
+  font-size: 26px;
+   
+}
